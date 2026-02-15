@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "customerName": "Jan Kowalski",
+    "subject": "Problem z logowaniem",
+    "description": "Nie mogę się zalogować do systemu od wczoraj.Nie mogę się zalogować do systemu od wczoraj.Nie mogę się zalogować do systemu od wczoraj.Nie mogę się zalogować do systemu od wczoraj.Nie mogę się zalogować do systemu od wczoraj.",
+    "priority": "high",
+    "status": "new",
+    "createdAt": "2024-02-06T10:30:00"
+  },
+  {
+    "id": 2,
+    "customerName": "Anna Nowak",
+    "subject": "Błąd podczas płatności",
+    "description": "System zwraca błąd przy próbie opłacenia faktury.",
+    "priority": "high",
+    "status": "in_progress",
+    "createdAt": "2024-02-06T11:15:00"
+  },
+  {
+    "id": 3,
+    "customerName": "Piotr Wiśniewski",
+    "subject": "Nie działa reset hasła",
+    "description": "Nie otrzymuję maila z linkiem do resetu hasła.",
+    "priority": "medium",
+    "status": "new",
+    "createdAt": "2024-02-06T12:05:00"
+  },
+  {
+    "id": 4,
+    "customerName": "Katarzyna Zielińska",
+    "subject": "Wolne działanie aplikacji",
+    "description": "Aplikacja bardzo długo ładuje dane po zalogowaniu.",
+    "priority": "medium",
+    "status": "in_progress",
+    "createdAt": "2024-02-06T12:40:00"
+  },
+  {
+    "id": 5,
+    "customerName": "Marek Lewandowski",
+    "subject": "Brak dostępu do raportów",
+    "description": "Po aktualizacji nie widzę zakładki z raportami.",
+    "priority": "high",
+    "status": "new",
+    "createdAt": "2024-02-06T13:20:00"
+  },
+  {
+    "id": 6,
+    "customerName": "Ewa Dąbrowska",
+    "subject": "Niepoprawne dane na fakturze",
+    "description": "Na fakturze wyświetla się stary adres firmy.",
+    "priority": "low",
+    "status": "new",
+    "createdAt": "2024-02-06T14:05:00"
+  },
+  {
+    "id": 7,
+    "customerName": "Tomasz Wójcik",
+    "subject": "Problem z eksportem CSV",
+    "description": "Eksport danych do pliku CSV kończy się błędem 500.",
+    "priority": "medium",
+    "status": "in_progress",
+    "createdAt": "2024-02-06T14:50:00"
+  },
+  {
+    "id": 8,
+    "customerName": "Magdalena Kamińska",
+    "subject": "Brak powiadomień e-mail",
+    "description": "Od dwóch dni nie dochodzą powiadomienia z systemu.",
+    "priority": "medium",
+    "status": "new",
+    "createdAt": "2024-02-06T15:25:00"
+  },
+  {
+    "id": 9,
+    "customerName": "Paweł Król",
+    "subject": "Nie można dodać użytkownika",
+    "description": "Formularz dodawania użytkownika nie zapisuje danych.",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2024-02-06T16:10:00"
+  },
+  {
+    "id": 10,
+    "customerName": "Joanna Szymańska",
+    "subject": "Błąd 404 w panelu klienta",
+    "description": "Po kliknięciu w szczegóły zamówienia pojawia się błąd 404.",
+    "priority": "low",
+    "status": "new",
+    "createdAt": "2024-02-06T16:45:00"
+  }
+]

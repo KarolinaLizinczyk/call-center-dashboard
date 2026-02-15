@@ -1,4 +1,4 @@
-# dashboarf-for-call-center-operator
+# dashboard-for-call-center-operator
 
 This template should help get you started developing with Vue 3 in Vite.
 

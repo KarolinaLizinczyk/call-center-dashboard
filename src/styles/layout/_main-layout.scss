@@ -1,0 +1,21 @@
+.main-layout {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.layout-header {
+  margin-bottom: 16px;
+}
+
+.layout-header h1 {
+  margin: 0;
+  font-size: clamp(26px, 3.4vw, 34px);
+  font-weight: 800;
+  color: #1d3557;
+}
+
+@media (max-width: 768px) {
+  .main-layout { padding: 16px; }
+}
